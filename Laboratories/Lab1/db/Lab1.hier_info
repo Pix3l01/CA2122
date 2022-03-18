@@ -1,0 +1,8 @@
+|2mux
+Z <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+K => inst1.IN1
+K => inst3.IN0
+A => inst.IN0
+
+
