@@ -21,3 +21,8 @@ Multiple lectures
  - Priority encoder
  - Shift register (left to right & left/right)
  - Counter & Asynchronous Counter
+ 
+## Lecture_3.21
+
+ - Parallelism
+ - Static memory -> large memory
